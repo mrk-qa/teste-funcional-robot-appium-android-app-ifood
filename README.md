@@ -38,7 +38,7 @@ Por fim, obtive os relatórios que o Robot Framework proporciona de forma bem in
 
 Gravei o vídeo da demonstração e postei no meu [linkedin](https://www.linkedin.com/in/mrk-silva/), pra quem quiser conferir:
 
-##### 🎬 [vídeo de demonstração]() 🎬
+##### 🎬 [vídeo de demonstração](https://www.linkedin.com/posts/mrk-silva_robot-framework-ifood-activity-6927793586386141184-bSjS?utm_source=linkedin_share&utm_medium=member_desktop_web) 🎬
 
 
 
